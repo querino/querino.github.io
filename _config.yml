@@ -2,9 +2,9 @@
 title: Querino
 email: querino@me.com
 url: http://www.querino.net
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+description: "Bem-vindo(a)! Esta página está em constante evolução. Se precisar, clique no link de Contato para me mandar um e-mail"
+skills: "Professor - Pesquisador - Programador"
+meta_author: Querino Luiz
 
 # Google webmaster tools
 google_verify:
@@ -33,7 +33,7 @@ color:
 footer:
   copyright: Luiz Carlos Querino Filho
   location: Marília, São Paulo, Brasil
-  social: Around the Web
+  social: Social
   credits: Forked from Freelancer for Jekyll.
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -41,7 +41,7 @@ social:
   - title: twitter
     url: http://twitter.com/querino
   - title: facebook
-    url:
+    url: http://facebook.com/querino
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/querino
   - title: github
@@ -49,8 +49,9 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Rua Carajás, 50
+  - line: CEP 17502-080
+  - line: Marília, São Paulo, Brasil
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
