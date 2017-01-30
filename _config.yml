@@ -1,5 +1,5 @@
 # Site settings
-title: Prof. Me. Luiz Carlos Querino Filho
+title: Luiz Carlos Querino Filho
 short_title: Querino
 email: querino@me.com
 url: http://www.querino.net
@@ -50,9 +50,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Rua Carajás, 50
-  - line: CEP 17502-080
-  - line: Marília, São Paulo, Brasil
+  - line: Contato: querino '@' me.com
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
